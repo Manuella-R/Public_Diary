@@ -1,0 +1,1 @@
+INSERT INTO goodweb.articles (username, articlename, articletext) VALUES ('$authorname', '$title', '$articleContent');
